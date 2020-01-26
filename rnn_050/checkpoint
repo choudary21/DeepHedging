@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/matthiasgroncki/models/rnn_050/model.ckpt"
+all_model_checkpoint_paths: "/Users/matthiasgroncki/models/rnn_050/model.ckpt"
